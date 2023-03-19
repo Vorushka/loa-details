@@ -195,7 +195,7 @@ module.exports = configure(function (/* ctx */) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: "loa-details",
+        appId: "loa-details-ru",
         win: {
           target: "nsis",
         },
@@ -203,7 +203,7 @@ module.exports = configure(function (/* ctx */) {
         publish: [
           {
             provider: "github",
-            owner: "lost-ark-dev",
+            owner: "razielqt",
             repo: "loa-details",
           },
         ],
