@@ -29,8 +29,8 @@ export const classes = {
   Machinist: { color: "#3b4292", defaultColor: "#3b4292" }, // 505
   "Gunner (Female)": { color: "#541165", defaultColor: "#541165" }, // 511
   Gunslinger: { color: "#6bcec2", defaultColor: "#6bcec2" }, // 512
-  // "Specialist", 601
-  // "Artist", 602
-  // "Aeromancer", 603
+  Specialist: {color: "#0e6ba8", defaultColor: "#0e6ba8"}, // 601
+  Artist: {color: "#b33f62", defaultColor: "#b33f62"}, // 602
+  Aeromancer: {color: "#a6e1fa", defaultColor: "#a6e1fa"}, // 603
   // "Alchemist", 604
 };
