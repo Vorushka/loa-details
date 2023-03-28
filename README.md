@@ -7,7 +7,7 @@
   <a href="https://github.com/razielqt/loa-details/releases/latest">
     <img src="https://img.shields.io/github/downloads/razielqt/loa-details/total?style=for-the-badge" />
   </a>
-  <a href="https://discord.gg/E3ffRfWBuV">
+  <a href="">
     <img src="https://img.shields.io/discord/1088415616278474782?color=%235865F2&label=Discord&style=for-the-badge" />
   </a>
 
@@ -44,7 +44,7 @@
 
 ## Dev
 
-- Clone with `git clone --recurse-submodules https://github.com/lost-ark-dev/loa-details`
+- Clone with `git clone --recurse-submodules https://github.com/razielqt/loa-details`
 - Install dependencies with `npm install`
 - You can run loa-details in dev mode with the command `npm run dev`
 - You can build a release-ready binary with the command `npm run build`. Output will be located in `./dist/electron` directory.
