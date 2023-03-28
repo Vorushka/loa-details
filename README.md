@@ -7,7 +7,7 @@
   <a href="https://github.com/razielqt/loa-details/releases/latest">
     <img src="https://img.shields.io/github/downloads/razielqt/loa-details/total?style=for-the-badge" />
   </a>
-  <a href="">
+  <a href="https://discord.gg/cpj22mNY8N">
     <img src="https://img.shields.io/discord/1088415616278474782?color=%235865F2&label=Discord&style=for-the-badge" />
   </a>
 
