@@ -4,43 +4,43 @@
   <br />
   <br />
 
-  <a href="https://github.com/lost-ark-dev/loa-details/releases/latest">
-    <img src="https://img.shields.io/github/downloads/lost-ark-dev/loa-details/total?style=for-the-badge" />
+  <a href="https://github.com/razielqt/loa-details/releases/latest">
+    <img src="https://img.shields.io/github/downloads/razielqt/loa-details/total?style=for-the-badge" />
   </a>
-  <a href="https://discord.gg/C3fr3EBXbS">
-    <img src="https://img.shields.io/discord/1039210817314377779?color=%235865F2&label=Discord&style=for-the-badge" />
+  <a href="https://discord.gg/E3ffRfWBuV">
+    <img src="https://img.shields.io/discord/1088415616278474782?color=%235865F2&label=Discord&style=for-the-badge" />
   </a>
 
   <br />
 
-  <img src="https://img.shields.io/github/package-json/v/lost-ark-dev/loa-details?style=flat-square" />
-  <img src="https://img.shields.io/github/license/lost-ark-dev/loa-details?style=flat-square" />
+  <img src="https://img.shields.io/github/package-json/v/razielqt/loa-details?style=flat-square" />
+  <img src="https://img.shields.io/github/license/razielqt/loa-details?style=flat-square" />
 </p>
 
-<p align="center">Realtime Damage Meter tool for Lost Ark</p>
+<p align="center">Инструмент для отслеживания урона в реальном времени (версия Lost Ark от Mail.ru)</p>
 
 ![small](https://user-images.githubusercontent.com/29287377/173195460-cf8da1b4-abfa-4ed3-8dec-648eb1ffaf87.png)
 
 ---
+Данный репозиторий является форком [loa-details для EU серверов](https://github.com/lost-ark-dev/loa-details) и был расширен для работы на серверах от Mail.ru.
 
-# Requirements
+# Зависимости
 
-- For windows, you need [Npcap with WinPcap compatibilities](https://npcap.com/#download)
-- For Unix, you need `libpcap` and `libpcap-dev/libpcap-devel` packages
+- Windows [Npcap with WinPcap compatibilities](https://npcap.com/#download)
 
-### When installing Npcap for Windows:
+### Во время установки Npcap для Windows:
 
-- You must tick the case `Install Npcap in WinPcap API-compatible Mode`
-- If you don't want to run loa-details as administrator every time, you should NOT TICK the case `Restrict Npcap driver's access to Administrators only`
+- Необходимо отметить `Install Npcap in WinPcap API-compatible Mode`
+- Если вы не хотите запускать loa-details от администратора каждый раз, вам НЕ НУЖНО выбирать `Restrict Npcap driver's access to Administrators only`
 
 ![npcap-install](./public/npcap.png)
 
-## User Instructions
+## Пользовательская инструкция
 
-- Make you that you have installed the requirements
-- Download latest release installer [here](https://github.com/lost-ark-dev/loa-details/releases/latest)
-- Follow the installation instructions
-- Start loa-details and start logging !
+- Убедитесь что вы установили зависимости
+- Скачайте последнюю версию [здесь](https://github.com/razielqt/loa-details/releases/latest)
+- Следуйте инструкциям по установке
+- Наслаждайтесь
 
 ## Dev
 
