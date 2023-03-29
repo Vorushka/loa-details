@@ -27,7 +27,7 @@
         </span>
         <span v-if="isTakingScreenshot" class="watermark-box">
           <img class="watermark-logo" :src="logoImg" />
-          github.com/lost-ark-dev/loa-details
+          github.com/razielqt/loa-details
         </span>
       </div>
     </div>
@@ -147,7 +147,7 @@ const hideNamesOnScreenshot = ref(false);
 async function takeScreenshot(hideNames = true) {
   hideNamesOnScreenshot.value = hideNames;
   isTakingScreenshot.value = true;
-  await sleep(600);
+  await sleep(60000);
 
   const logViewRef = this.$refs.logView;
   const screenshot = await html2canvas(logViewRef, {
