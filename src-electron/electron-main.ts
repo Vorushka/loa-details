@@ -61,7 +61,7 @@ let prelauncherWindow: BrowserWindow | null,
   damageMeterWindow: BrowserWindow | null;
 let tray = null;
 
-const appLockKey = { myKey: "loa-details-ru" };
+const appLockKey = { myKey: "test-load-ru" };
 const gotTheLock = app.requestSingleInstanceLock(appLockKey);
 if (!gotTheLock) {
   app.quit();
