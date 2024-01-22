@@ -1,8 +1,8 @@
 {
-  "name": "loa-details-ru",
+  "name": "test-load-ru",
   "version": "1.1.0",
-  "description": "Damage meter for Lost Ark",
-  "productName": "LOA Details RU",
+  "description": "test load for Lost Ark",
+  "productName": "LOAD",
   "author": "Raziel, Herysia, Mathicha, Eren Kara <erenkyi0@gmail.com>",
   "private": true,
   "scripts": {
